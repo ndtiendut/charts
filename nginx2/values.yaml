@@ -1,0 +1,4 @@
+image: nginxdemos/hello:latest
+port: 80
+identity_key: abcd
+replicaCount: 1
