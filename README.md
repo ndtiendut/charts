@@ -14,4 +14,4 @@ $ helm show values ndtiendut/mynginx > myvalues.yaml
 
 # Install chart with your configurations
 $ helm install mynginxtest ndtiendut/mynginx -f myvalues.yaml
-```
+
